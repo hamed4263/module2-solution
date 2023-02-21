@@ -48,6 +48,7 @@
     }
 }
 
+
 @media screen and (max-width:991px) and (min-width:768px) {
     .toptitle {
         display: flex;
@@ -156,3 +157,4 @@
 
     }
 }
+
